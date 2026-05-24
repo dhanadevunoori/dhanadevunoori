@@ -29,6 +29,7 @@
 > Full-stack student management app · CRUD operations · Excel export · Glassmorphism dark UI · localStorage persistence · Form validation
 
 `Next.js 16` `React 19` `TypeScript` `Vercel`
+
 **[🎨 Tech.Care Dashboard](https://github.com/dhanadevunoori/Tech.Care)** [![Live](https://img.shields.io/badge/●%20live-3fb950?style=flat)](https://dhanadevunoori.github.io/Tech.Care/)
 > Pixel-perfect healthcare patient dashboard · Live REST API integration · Chart.js blood pressure visualization · Dynamic patient data rendering using vanilla JavaScript · Zero frameworks
 `HTML5` `CSS3` `JavaScript` `Chart.js` `REST API`
