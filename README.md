@@ -37,7 +37,7 @@
 ---
 
 ### 📊 At a glance
-- 🏭 **3 live apps** deployed in production (Railway + Vercel + GitHub Pages)
+- 🏭 Built and deployed **3 production-ready applications** (Railway + Vercel + GitHub Pages)
 - 📄 **100% Swagger/OpenAPI** documentation coverage
 - ✅ **HackerRank certified** in Java (Basic) & React (Basic)
 - 🏆 Recognised at **National Engineering Conference 2024**
