@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Dhanalaxmi Devunoori
-**Java Developer** · Spring Boot · REST APIs · React.js · 3 live apps in production · Open to opportunities
+**Java Full Stack Developer** · Spring Boot · REST APIs · React.js · Building scalable web applications · Open to opportunities
 
 ---
 
@@ -29,10 +29,8 @@
 > Full-stack student management app · CRUD operations · Excel export · Glassmorphism dark UI · localStorage persistence · Form validation
 
 `Next.js 16` `React 19` `TypeScript` `Vercel`
-
-**[🎨 Tech.Care Dashboard](https://dhanadevunoori.github.io/Tech.Care/)** [![Live](https://img.shields.io/badge/●%20live-3fb950?style=flat)](https://dhanadevunoori.github.io/Tech.Care/)
-> Pixel-perfect healthcare patient dashboard · Live REST API · Chart.js blood pressure visualization · Dynamic DOM rendering · Zero frameworks
-
+**[🎨 Tech.Care Dashboard](https://github.com/dhanadevunoori/Tech.Care)** [![Live](https://img.shields.io/badge/●%20live-3fb950?style=flat)](https://dhanadevunoori.github.io/Tech.Care/)
+> Pixel-perfect healthcare patient dashboard · Live REST API integration · Chart.js blood pressure visualization · Dynamic patient data rendering using vanilla JavaScript · Zero frameworks
 `HTML5` `CSS3` `JavaScript` `Chart.js` `REST API`
 
 ---
