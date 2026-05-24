@@ -1,3 +1,7 @@
+<img width="1913" height="946" alt="image" src="https://github.com/user-attachments/assets/aa1126fd-0cad-4165-87f8-d7f6edbdff3f" />
+<img width="1913" height="946" alt="image" src="https://github.com/user-attachments/assets/85ffcc00-c813-483f-a60d-008dd92a86b7" />
+<img width="1913" height="946" alt="image" src="https://github.com/user-attachments/assets/aa2b4095-8a4d-42a6-b118-8303c4471261" />
+<img width="1913" height="946" alt="image" src="https://github.com/user-attachments/assets/fce9dc09-e89b-4f58-ae79-5c919678ed3d" />
 ## 👋 Hi, I'm Dhanalaxmi Devunoori
 
 **Java Developer** · Spring Boot · REST APIs · React.js · 2 live apps in production · Open to opportunities
@@ -11,7 +15,7 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6db33f?style=flat&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-61dafb?style=flat&logo=react&logoColor=black)
-![H2](https://img.shields.io/badge/H2-Database-blue?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Git/GitHub-f05032?style=flat&logo=git&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0b0d0e?style=flat&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
