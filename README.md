@@ -28,6 +28,10 @@
 > Full-stack web app · React SPA + Node.js/Express backend · Team collaboration · Agile Git workflow · Zero critical post-deployment bugs
 `React.js` `Node.js` `Express.js` `MySQL` `Vercel`
 
+**[🎨 Tech.Care Dashboard](https://dhanadevunoori.github.io/Tech.Care/)** [![Live](https://img.shields.io/badge/●%20live-3fb950?style=flat)](https://dhanadevunoori.github.io/Tech.Care/)
+
+> Pixel-perfect healthcare patient dashboard · Live REST API · Chart.js blood pressure visualization · Dynamic DOM rendering · Zero frameworks  
+`HTML5` `CSS3` `JavaScript` `Chart.js` `REST API`
 ---
 
 ### 📊 At a glance
