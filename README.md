@@ -4,7 +4,7 @@
 <img width="1913" height="946" alt="image" src="https://github.com/user-attachments/assets/fce9dc09-e89b-4f58-ae79-5c919678ed3d" />
 ## 👋 Hi, I'm Dhanalaxmi Devunoori
 
-**Java Developer** · Spring Boot · REST APIs · React.js · 2 live apps in production · Open to opportunities
+**Java Developer** · Spring Boot · REST APIs · React.js · 3 live apps in production · Open to opportunities
 
 ---
 
@@ -15,6 +15,8 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6db33f?style=flat&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-61dafb?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Git/GitHub-f05032?style=flat&logo=git&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0b0d0e?style=flat&logo=railway&logoColor=white)
@@ -28,9 +30,9 @@
 > Production REST API · JWT auth · 4-stage pipeline (Applied/Interview/Offer/Rejected) · Real-time analytics · 100% Swagger/OpenAPI coverage · JUnit 5 + Mockito tests
 `Java 17` `Spring Boot 3.5` `Spring Security` `MySQL` `Railway`
 
-**[👩‍🎓 Student Table App](https://github.com/dhanadevunoori)** ![Live](https://img.shields.io/badge/●_live-3fb950?style=flat)
-> Full-stack web app · React SPA + Node.js/Express backend · Team collaboration · Agile Git workflow · Zero critical post-deployment bugs
-`React.js` `Node.js` `Express.js` `MySQL` `Vercel`
+**[👩‍🎓 Student Table App](https://github.com/dhanadevunoori/student-table)** ![Live](https://img.shields.io/badge/●_live-3fb950?style=flat)
+> Full-stack student management app · CRUD operations · Excel export · Glassmorphism dark UI · localStorage persistence · Form validation
+`Next.js 16` `React 19` `TypeScript` `Vercel`
 
 **[🎨 Tech.Care Dashboard](https://dhanadevunoori.github.io/Tech.Care/)** [![Live](https://img.shields.io/badge/●%20live-3fb950?style=flat)](https://dhanadevunoori.github.io/Tech.Care/)
 
