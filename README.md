@@ -1,15 +1,9 @@
-<img width="1913" height="946" alt="image" src="https://github.com/user-attachments/assets/aa1126fd-0cad-4165-87f8-d7f6edbdff3f" />
-<img width="1913" height="946" alt="image" src="https://github.com/user-attachments/assets/85ffcc00-c813-483f-a60d-008dd92a86b7" />
-<img width="1913" height="946" alt="image" src="https://github.com/user-attachments/assets/aa2b4095-8a4d-42a6-b118-8303c4471261" />
-<img width="1913" height="946" alt="image" src="https://github.com/user-attachments/assets/fce9dc09-e89b-4f58-ae79-5c919678ed3d" />
 ## 👋 Hi, I'm Dhanalaxmi Devunoori
-
 **Java Developer** · Spring Boot · REST APIs · React.js · 3 live apps in production · Open to opportunities
 
 ---
 
 ### 🛠️ Tech Stack
-
 ![Java](https://img.shields.io/badge/Java_17-f89820?style=flat&logo=java&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6db33f?style=flat&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6db33f?style=flat&logo=springsecurity&logoColor=white)
@@ -28,20 +22,23 @@
 
 **[🔒 Smart Job Application Tracker](https://github.com/dhanadevunoori/job-tracker)** ![Live](https://img.shields.io/badge/●_live-3fb950?style=flat)
 > Production REST API · JWT auth · 4-stage pipeline (Applied/Interview/Offer/Rejected) · Real-time analytics · 100% Swagger/OpenAPI coverage · JUnit 5 + Mockito tests
+
 `Java 17` `Spring Boot 3.5` `Spring Security` `MySQL` `Railway`
 
 **[👩‍🎓 Student Table App](https://github.com/dhanadevunoori/student-table)** ![Live](https://img.shields.io/badge/●_live-3fb950?style=flat)
 > Full-stack student management app · CRUD operations · Excel export · Glassmorphism dark UI · localStorage persistence · Form validation
+
 `Next.js 16` `React 19` `TypeScript` `Vercel`
 
 **[🎨 Tech.Care Dashboard](https://dhanadevunoori.github.io/Tech.Care/)** [![Live](https://img.shields.io/badge/●%20live-3fb950?style=flat)](https://dhanadevunoori.github.io/Tech.Care/)
+> Pixel-perfect healthcare patient dashboard · Live REST API · Chart.js blood pressure visualization · Dynamic DOM rendering · Zero frameworks
 
-> Pixel-perfect healthcare patient dashboard · Live REST API · Chart.js blood pressure visualization · Dynamic DOM rendering · Zero frameworks  
 `HTML5` `CSS3` `JavaScript` `Chart.js` `REST API`
+
 ---
 
 ### 📊 At a glance
-- 🏭 **2 live apps** deployed in production (Railway + Vercel)
+- 🏭 **3 live apps** deployed in production (Railway + Vercel + GitHub Pages)
 - 📄 **100% Swagger/OpenAPI** documentation coverage
 - ✅ **HackerRank certified** in Java (Basic) & React (Basic)
 - 🏆 Recognised at **National Engineering Conference 2024**
@@ -49,4 +46,4 @@
 ---
 
 ### 📬 Reach me
-📧 dhanadevunoori@gmail.com   |   📍 Hyderabad · Hybrid / Remote   |   [LinkedIn](https://linkedin.com/in/dhanadevunoori-b295a9293)
+📧 dhanadevunoori@gmail.com   |   📍 Hyderabad · Hybrid / Remote   |   [LinkedIn](https://linkedin.com/in/dhanadevunoori-b295a9293)
