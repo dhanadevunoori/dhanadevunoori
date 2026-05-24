@@ -11,7 +11,7 @@
 ![React](https://img.shields.io/badge/React.js-61dafb?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-0000bb?style=flat&logo=h2&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Git/GitHub-f05032?style=flat&logo=git&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0b0d0e?style=flat&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
@@ -23,7 +23,7 @@
 **[🔒 Smart Job Application Tracker](https://github.com/dhanadevunoori/job-tracker)** ![Live](https://img.shields.io/badge/●_live-3fb950?style=flat)
 > Production REST API · JWT auth · 4-stage pipeline (Applied/Interview/Offer/Rejected) · Real-time analytics · 100% Swagger/OpenAPI coverage · JUnit 5 + Mockito tests
 
-`Java 17` `Spring Boot 3.5` `Spring Security` `MySQL` `Railway`
+`Java 17` `Spring Boot 3.5` `Spring Security` `H2 Database` `Railway`
 
 **[👩‍🎓 Student Table App](https://github.com/dhanadevunoori/student-table)** ![Live](https://img.shields.io/badge/●_live-3fb950?style=flat)
 > Full-stack student management app · CRUD operations · Excel export · Glassmorphism dark UI · localStorage persistence · Form validation
