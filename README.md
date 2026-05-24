@@ -11,7 +11,7 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6db33f?style=flat&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-61dafb?style=flat&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-Database-blue?style=flat)
 ![GitHub](https://img.shields.io/badge/Git/GitHub-f05032?style=flat&logo=git&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0b0d0e?style=flat&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
