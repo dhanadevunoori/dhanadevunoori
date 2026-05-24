@@ -23,7 +23,7 @@
 **[🔒 Smart Job Application Tracker](https://github.com/dhanadevunoori/job-tracker)** ![Live](https://img.shields.io/badge/●_live-3fb950?style=flat)
 > Production REST API · JWT auth · 4-stage pipeline (Applied/Interview/Offer/Rejected) · Real-time analytics · 100% Swagger/OpenAPI coverage · JUnit 5 + Mockito tests
 
-`Java 17` `Spring Boot 3.5` `Spring Security` `H2 Database` `Railway`
+`Java 17` `Spring Boot 3.5` `Spring Security` `JWT` `Swagger` `H2 Database` `Railway`
 
 **[👩‍🎓 Student Table App](https://github.com/dhanadevunoori/student-table)** ![Live](https://img.shields.io/badge/●_live-3fb950?style=flat)
 > Full-stack student management app · CRUD operations · Excel export · Glassmorphism dark UI · localStorage persistence · Form validation
