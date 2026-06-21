@@ -29,9 +29,9 @@ Building production-ready web applications · Open to opportunities
 ### 🚀 Live Projects
 
 **[✈️ Orbitra — AI-Powered Travel Planner](https://github.com/dhanadevunoori/orbitra-itinerary)** ![Live](https://img.shields.io/badge/●_live-3fb950?style=flat)
-> Full-stack MERN app · Groq LLaMA 3.3 generates personalised travel itineraries · JWT auth + bcrypt · PDF & image upload with OCR (Tesseract.js) · Drag-and-drop file picker · Trip sharing via public token link
+> Full-stack MERN app · Groq LLaMA 3.3 (70B) generates personalised travel itineraries · JWT auth + bcryptjs · PDF text extraction (pdf-parse) & image OCR (Tesseract.js) · Drag-and-drop file picker (react-dropzone) · Trip sharing via public token link
 
-`React 18` `Vite` `Node.js` `Express 4` `MongoDB` `Mongoose 8` `Groq SDK` `JWT` `bcrypt` `Multer` `Tesseract.js` `Vercel` `Render`
+`React 18` `Vite` `Node.js` `Express 4` `MongoDB` `Mongoose 8` `Groq SDK` `JWT` `bcryptjs` `Multer` `pdf-parse` `Tesseract.js` `Vercel` `Render`
 
 🔗 [Frontend](https://orbitra-itinerary.vercel.app) · [Backend API](https://orbitra-backend-75je.onrender.com)
 
@@ -47,18 +47,18 @@ Building production-ready web applications · Open to opportunities
 ---
 
 **[🏥 MediCare — Hospital Management System](https://github.com/dhanadevunoori/medicare-hospital)** ![Live](https://img.shields.io/badge/●_live-3fb950?style=flat)
-> Full-stack hospital platform · Doctor listings · Appointment booking · bcrypt-secured admin dashboard · Session-based auth · Live dashboard stats
+> Full-stack hospital platform · Doctor listings · Appointment booking · bcryptjs-secured admin dashboard · Persistent session storage (connect-sqlite3) · Server-side validation (express-validator) · Live dashboard stats
 
-`HTML5` `CSS3` `Bootstrap 5` `Vanilla JavaScript` `Node.js` `Express 4` `SQLite` `bcrypt` `express-session` `Render`
+`HTML5` `CSS3` `Bootstrap 5` `Vanilla JavaScript` `Node.js` `Express 4` `SQLite` `bcryptjs` `express-session` `express-validator` `Render`
 
 🔗 [Live Demo](https://medicare-hospital-ri6m.onrender.com)
 
 ---
 
 **[🧑‍💼 Candidate Management Portal](https://github.com/dhanadevunoori/Candidate-Management-Portal)**
-> Full-stack MERN portal · JWT auth with localStorage persistence · Route guards (PrivateRoute + PublicRoute) · Auto 401 redirect · CRUD with search & filter · Status pipeline: Applied → Shortlisted → Rejected
+> Full-stack MERN portal (co-built) · JWT auth with localStorage persistence · Route guards (PrivateRoute + PublicRoute) · Auto 401 redirect · CRUD with search & filter · Status pipeline: Applied → Shortlisted → Rejected
 
-`React 19` `Node.js` `Express 5` `MongoDB` `Mongoose 9` `JWT` `Tailwind CSS` `React Router 7` `Axios`
+`React 19` `Create React App` `Node.js` `Express 5` `MongoDB` `Mongoose 9` `JWT` `Tailwind CSS` `React Router 7` `Axios`
 
 ---
 
@@ -72,23 +72,23 @@ Building production-ready web applications · Open to opportunities
 ---
 
 **[📚 Student Table App](https://github.com/dhanadevunoori/student-table)** ![Live](https://img.shields.io/badge/●_live-3fb950?style=flat)
-> Student management app · Full CRUD · One-click Excel export via `xlsx` · localStorage persistence · Toast notifications · Form validation · No backend
+> Student management app (co-built) · Full CRUD · One-click Excel export via `xlsx` · localStorage persistence · Toast notifications · Form validation · No backend
 
 `Next.js 16` `React 19` `TypeScript` `xlsx` `Lucide React` `react-hot-toast` `Vercel`
 
 ---
 
-**[🐍 Network Automation Toolkit](https://github.com/dhanadevunoori/network-automation-toolkit)**
-> Python scripts for network & QA automation · TCP port scanner with concurrent threads · REST API health-check validator (status codes, response times, JSON structure, Content-Type headers)
+**[🐍 Network Automation & API Testing Toolkit](https://github.com/dhanadevunoori/network-automation-toolkit)**
+> Python scripts for network & QA automation · TCP port scanner with concurrent threads (ThreadPoolExecutor) · REST API health-check validator using `requests` (status codes, response times, JSON structure, Content-Type headers) · pytest suite with security-aware negative tests (SQL-injection-string handling)
 
-`Python` `ThreadPoolExecutor` `Socket` `HTTP/REST`
+`Python` `socket` `ThreadPoolExecutor` `requests` `pytest` `HTTP/REST`
 
 ---
 
 ### 📊 At a glance
 
-- 🏭 **6 projects built** — 5 production-deployed (Railway · Render · Vercel · GitHub Pages)
-- 🤖 **AI-integrated full-stack app** using Groq LLaMA 3.3 + PDF/image OCR (Orbitra)
+- 🏭 **7 projects built** — 5 production-deployed (Railway · Render · Vercel · GitHub Pages)
+- 🤖 **AI-integrated full-stack app** using Groq LLaMA 3.3 (70B) with PDF text extraction + image OCR (Orbitra)
 - 📄 **100% Swagger/OpenAPI** documentation (Job Tracker)
 - ✅ **HackerRank certified** in Java (Basic) & React (Basic)
 - 🏆 Recognised at **National Engineering Conference 2024**
@@ -97,7 +97,7 @@ Building production-ready web applications · Open to opportunities
 
 ### 📬 Reach me
 
-📧 dhanadevunoori@gmail.com · 📍 Hyderabad · Hybrid / Remote /willing to relocate any where in India
+📧 dhanadevunoori@gmail.com · 📍 Hyderabad · Hybrid / Remote / willing to relocate anywhere in India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanadevunoori-b295a9293)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhanadevunoori)
