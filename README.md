@@ -21,33 +21,23 @@
 
 ## 👩‍💻 About Me
 
-```java
-public class Dhanalaxmi {
+🎯 **Java Full Stack Developer** from Hyderabad, building production-ready web applications end-to-end — from secure REST APIs to deployed full-stack apps.
 
-    String role        = "Java Full Stack Developer";
-    String location    = "Hyderabad, India";
-    String status      = "🟢 Open to work — Full Stack / Backend Developer";
-    boolean relocate   = true; // Hybrid / Remote / Anywhere in India
+🟢 **Open to work** — Full Stack Developer / Backend Developer · Hybrid / Remote / Willing to relocate anywhere in India
 
-    String[] currentlyBuilding = {
-        "Production REST APIs with Spring Boot + Docker",
-        "AI-integrated full-stack MERN applications",
-        "Secure JWT-authenticated backends"
-    };
+**What I bring to the table:**
 
-    String[] strengths = {
-        "Clean API design & 100% Swagger documentation",
-        "End-to-end deployment: code → Docker → Render/Vercel",
-        "AI integration: Groq LLaMA 3.3 + OCR pipelines"
-    };
+- 🔒 Secure backend APIs with **Spring Boot + Spring Security + JWT**
+- 🤖 AI-integrated apps using **Groq LLaMA 3.3 + OCR pipelines**
+- 🐳 End-to-end deployment: **Code → Docker → Render / Vercel**
+- 📄 **100% Swagger/OpenAPI** documented APIs
+- ⚛️ Full-stack frontend with **React 18/19, Next.js, TypeScript**
 
-    String[] currentlyWorking = {
-        "🔨 Deploying Candidate Management Portal to Render",
-        "📖 Exploring System Design patterns",
-        "🚀 Strengthening Spring Security on Job Tracker"
-    };
-}
-```
+**Currently working on:**
+
+- 🔨 Deploying Candidate Management Portal to Render
+- 📖 Exploring System Design patterns
+- 🚀 Strengthening Spring Security on Job Tracker
 
 ---
 
