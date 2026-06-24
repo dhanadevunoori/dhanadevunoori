@@ -75,7 +75,7 @@
 
 ## 🚀 Live Projects
 
-> 7 of 7 projects are deployed and live — click the badges to explore
+> 6 of 7 projects are deployed and live — click the badges to explore
 
 ---
 
