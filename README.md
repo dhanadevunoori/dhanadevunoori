@@ -75,7 +75,7 @@
 
 ## 🚀 Live Projects
 
-> 6 of 7 projects are deployed and live — click the badges to explore
+> 7 of 7 projects are deployed and live — click the badges to explore
 
 ---
 
@@ -113,11 +113,14 @@ Full-stack hospital platform · Doctor listings · Appointment booking · bcrypt
 ---
 
 ### 🧑‍💼 Candidate Management Portal
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat&logo=vercel&logoColor=white)](https://candidate-management-portal-psi.vercel.app)
 [![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github)](https://github.com/dhanadevunoori/Candidate-Management-Portal)
 
-Full-stack MERN portal · JWT auth with localStorage persistence · Route guards (PrivateRoute + PublicRoute) · Auto 401 redirect · CRUD with search & filter · Status pipeline: **Applied → Shortlisted → Rejected**
+Full-stack MERN portal · JWT auth · Real-time candidate dashboard with stats (Total, Applied, Shortlisted, Rejected) · CRUD with search by name/email/skill · Filter by status · Protected routes · Fully responsive Tailwind UI
 
-`React 19` `Node.js` `Express 5` `MongoDB` `Mongoose 9` `JWT` `Tailwind CSS` `React Router 7` `Axios`
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS` `Vercel` `Render`
+
+> ⚠️ Free tier backend on Render — may take 30 sec to wake up on first visit
 
 ---
 
@@ -166,7 +169,7 @@ Python scripts for network & QA automation · TCP port scanner with concurrent t
 
 | | |
 |---|---|
-| 🏭 7 projects built | 6 production-deployed across Render · Vercel · GitHub Pages |
+| 🏭 7 projects built | 7 production-deployed across Render · Vercel · GitHub Pages |
 | 🤖 AI-integrated app | Groq LLaMA 3.3 + PDF/image OCR pipeline (Orbitra) |
 | 📄 100% Swagger docs | Full OpenAPI documentation on Job Tracker API |
 | 🐳 Dockerized backend | Job Tracker containerised and deployed via Docker on Render |
